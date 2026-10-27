@@ -1,6 +1,7 @@
-## Support for this fingerprint scanner (ELAN:ARM-M4) has since been added to mainline LibFPrint. This repository is now obsolete.
+
 
 <div align="center">
+## Support for this fingerprint scanner (ELAN:ARM-M4) has since been added to mainline LibFPrint. This repository is now obsolete.
 
 # LibFPrint
 
